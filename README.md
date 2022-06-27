@@ -8,7 +8,6 @@ To run the tests
 ## Running the tests
 
 - Run `npm install` to set up all dependencies.
-- Set up your Airport Gap API token as an environment variable called `AIRPORT_GAP_TOKEN`.
 - Execute the test suite with `npm test`.
 
 -For Run The Application `npm run dev` to run it locally.
